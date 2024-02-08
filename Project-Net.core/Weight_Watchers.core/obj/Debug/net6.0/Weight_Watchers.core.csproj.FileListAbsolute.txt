@@ -1,0 +1,62 @@
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.core.deps.json
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.core.runtimeconfig.json
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.core.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.core.pdb
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.AssemblyInfo.cs
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\refint\Weight_Watchers.core.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.pdb
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.genruntimeconfig.cache
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\ref\Weight_Watchers.core.dll
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.core.deps.json
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.core.runtimeconfig.json
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.core.dll
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.core.pdb
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.AssemblyInfo.cs
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.dll
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\refint\Weight_Watchers.core.dll
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.pdb
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.genruntimeconfig.cache
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\ref\Weight_Watchers.core.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.core.deps.json
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.core.runtimeconfig.json
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.core.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.core.pdb
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.data.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.data.pdb
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.csproj.AssemblyReference.cache
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.AssemblyInfoInputs.cache
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.AssemblyInfo.cs
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.csproj.CoreCompileInputs.cache
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.csproj.CopyComplete
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\refint\Weight_Watchers.core.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.pdb
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.genruntimeconfig.cache
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\ref\Weight_Watchers.core.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.core.deps.json
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.core.runtimeconfig.json
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.core.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.core.pdb
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.data.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\bin\Debug\net6.0\Weight_Watchers.data.pdb
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.csproj.AssemblyReference.cache
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.GeneratedMSBuildEditorConfig.editorconfig
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.AssemblyInfoInputs.cache
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.AssemblyInfo.cs
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.csproj.CoreCompileInputs.cache
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.csproj.CopyComplete
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\refint\Weight_Watchers.core.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.pdb
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\Weight_Watchers.core.genruntimeconfig.cache
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.core\obj\Debug\net6.0\ref\Weight_Watchers.core.dll

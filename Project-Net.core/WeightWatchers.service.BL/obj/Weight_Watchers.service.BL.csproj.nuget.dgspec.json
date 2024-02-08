@@ -1,0 +1,317 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\WeightWatchers.service.BL\\Weight_Watchers.service.BL.csproj": {}
+  },
+  "projects": {
+    "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\WeightWatchers.service.BL\\Weight_Watchers.service.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\WeightWatchers.service.BL\\Weight_Watchers.service.BL.csproj",
+        "projectName": "Weight_Watchers.service.BL",
+        "projectPath": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\WeightWatchers.service.BL\\Weight_Watchers.service.BL.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\WeightWatchers.service.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.core\\Weight_Watchers.core.csproj": {
+                "projectPath": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.core\\Weight_Watchers.core.csproj"
+              },
+              "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.data\\Weight_Watchers.data.csproj": {
+                "projectPath": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.data\\Weight_Watchers.data.csproj"
+              },
+              "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.service.DAL\\Weight_Watchers.service.DAL.csproj": {
+                "projectPath": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.service.DAL\\Weight_Watchers.service.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.core\\Weight_Watchers.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.core\\Weight_Watchers.core.csproj",
+        "projectName": "Weight_Watchers.core",
+        "projectPath": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.core\\Weight_Watchers.core.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.data\\Weight_Watchers.data.csproj": {
+                "projectPath": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.data\\Weight_Watchers.data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.data\\Weight_Watchers.data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.data\\Weight_Watchers.data.csproj",
+        "projectName": "Weight_Watchers.data",
+        "projectPath": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.data\\Weight_Watchers.data.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.service.DAL\\Weight_Watchers.service.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.service.DAL\\Weight_Watchers.service.DAL.csproj",
+        "projectName": "Weight_Watchers.service.DAL",
+        "projectPath": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.service.DAL\\Weight_Watchers.service.DAL.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.service.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.core\\Weight_Watchers.core.csproj": {
+                "projectPath": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.core\\Weight_Watchers.core.csproj"
+              },
+              "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.data\\Weight_Watchers.data.csproj": {
+                "projectPath": "F:\\תקיה המנסה להיות הכי מעודכנת\\final-project\\Project-Net.core\\Weight_Watchers.data\\Weight_Watchers.data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

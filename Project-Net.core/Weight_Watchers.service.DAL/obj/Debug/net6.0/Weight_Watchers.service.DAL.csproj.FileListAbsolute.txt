@@ -1,0 +1,39 @@
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.AssemblyInfo.cs
+Y:\Groups\Group_2\ורנר  חגית רחל\.NET\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.csproj.CoreCompileInputs.cache
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\bin\Debug\net6.0\Weight_Watchers.service.DAL.deps.json
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\bin\Debug\net6.0\Weight_Watchers.service.DAL.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\bin\Debug\net6.0\Weight_Watchers.service.DAL.pdb
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\bin\Debug\net6.0\Weight_Watchers.core.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\bin\Debug\net6.0\Weight_Watchers.data.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\bin\Debug\net6.0\Weight_Watchers.core.pdb
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\bin\Debug\net6.0\Weight_Watchers.data.pdb
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.csproj.AssemblyReference.cache
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.AssemblyInfoInputs.cache
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.AssemblyInfo.cs
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.csproj.CoreCompileInputs.cache
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.csproj.CopyComplete
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\refint\Weight_Watchers.service.DAL.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.pdb
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\ref\Weight_Watchers.service.DAL.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\bin\Debug\net6.0\Weight_Watchers.service.DAL.deps.json
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\bin\Debug\net6.0\Weight_Watchers.service.DAL.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\bin\Debug\net6.0\Weight_Watchers.service.DAL.pdb
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\bin\Debug\net6.0\Weight_Watchers.core.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\bin\Debug\net6.0\Weight_Watchers.data.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\bin\Debug\net6.0\Weight_Watchers.core.pdb
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\bin\Debug\net6.0\Weight_Watchers.data.pdb
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.csproj.AssemblyReference.cache
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.AssemblyInfoInputs.cache
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.AssemblyInfo.cs
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.csproj.CoreCompileInputs.cache
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.csproj.CopyComplete
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\refint\Weight_Watchers.service.DAL.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\Weight_Watchers.service.DAL.pdb
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Weight_Watchers.service.DAL\obj\Debug\net6.0\ref\Weight_Watchers.service.DAL.dll

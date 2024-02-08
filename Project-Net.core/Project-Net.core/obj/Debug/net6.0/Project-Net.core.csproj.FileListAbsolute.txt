@@ -1,0 +1,230 @@
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Project-Net.core.exe
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Project-Net.core.deps.json
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Project-Net.core.runtimeconfig.json
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Project-Net.core.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Project-Net.core.pdb
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.AssemblyInfo.cs
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\obj\Debug\net6.0\scopedcss\bundle\Project-Net.core.styles.css
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.csproj.CopyComplete
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\obj\Debug\net6.0\refint\Project-Net.core.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.pdb
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.genruntimeconfig.cache
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\obj\Debug\net6.0\ref\Project-Net.core.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.core.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.data.dll
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.core.pdb
+C:\Users\User\Desktop\הנדסת תוכנת\.Net core\תרגול\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.data.pdb
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.csproj.AssemblyReference.cache
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.AssemblyInfoInputs.cache
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.AssemblyInfo.cs
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.csproj.CoreCompileInputs.cache
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.MvcApplicationPartsAssemblyInfo.cache
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\refint\Project-Net.core.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.pdb
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\appsettings.Development.json
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\appsettings.json
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Project-Net.core.exe
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Project-Net.core.deps.json
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Project-Net.core.runtimeconfig.json
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Project-Net.core.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Project-Net.core.pdb
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\AutoMapper.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Humanizer.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.core.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.data.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.service.BL.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.service.DAL.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.service.BL.pdb
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.core.pdb
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.data.pdb
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.service.DAL.pdb
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\staticwebassets.build.json
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\staticwebassets.development.json
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\scopedcss\bundle\Project-Net.core.styles.css
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.csproj.CopyComplete
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.genruntimeconfig.cache
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\ref\Project-Net.core.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Serilog.dll
+D:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.MvcApplicationPartsAssemblyInfo.cs
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\appsettings.Development.json
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\appsettings.json
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Project-Net.core.exe
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Project-Net.core.deps.json
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Project-Net.core.runtimeconfig.json
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Project-Net.core.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Project-Net.core.pdb
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\AutoMapper.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Humanizer.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Serilog.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.core.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.data.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.service.BL.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.service.DAL.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.service.BL.pdb
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.core.pdb
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.data.pdb
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Weight_Watchers.service.DAL.pdb
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.csproj.AssemblyReference.cache
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.GeneratedMSBuildEditorConfig.editorconfig
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.AssemblyInfoInputs.cache
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.AssemblyInfo.cs
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.csproj.CoreCompileInputs.cache
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.MvcApplicationPartsAssemblyInfo.cs
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.MvcApplicationPartsAssemblyInfo.cache
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\staticwebassets.build.json
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\staticwebassets.development.json
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\scopedcss\bundle\Project-Net.core.styles.css
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.csproj.CopyComplete
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\refint\Project-Net.core.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.pdb
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\Project-Net.core.genruntimeconfig.cache
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\obj\Debug\net6.0\ref\Project-Net.core.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Serilog.Sinks.File.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Serilog.AspNetCore.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\System.Text.Json.dll
+F:\תקיה המנסה להיות הכי מעודכנת\final-project\Project-Net.core\Project-Net.core\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
